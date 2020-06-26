@@ -1,0 +1,8 @@
+blogs\services\repository\BlogRepository.class
+blogs\services\exception\ResourceNotFoundException.class
+blogs\services\controller\ArticlesServiceController.class
+blogs\services\controller\BlogsServiceController.class
+blogs\services\model\Article.class
+BlogServiceApplication.class
+blogs\services\model\Blog.class
+blogs\services\repository\ArticleRepository.class
